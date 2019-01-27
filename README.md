@@ -1,6 +1,6 @@
 # vfs_group_2018_20
 **We are winners!**
--`Karthik Hegde`
+-`Karthik Hegde`\n
 -Karthik Udupa
 -Keshav Singhal
 -Sreeharsha
