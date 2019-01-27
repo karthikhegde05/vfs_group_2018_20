@@ -2,7 +2,6 @@
 **We are winners!**
 
 -`Karthik Hegde`
-
 -Karthik Udupa
 
 -Keshav Singhal
